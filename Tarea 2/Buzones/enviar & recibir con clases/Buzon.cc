@@ -60,7 +60,7 @@ int Buzon :: Enviar(const char * mensaje) {
 /**
  * Envía un mensaje utilizando buzones.
  * @param mensaje dirección del buffer donde se encuentra el mensaje.
- * @param cantidad ???
+ * @param cantidad cantidad de veces que aparece el mensaje.
  * @param tipo identificador del mensaje en mtype.
  * @return 0 en caso de éxito.
  */
